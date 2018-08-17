@@ -1,1 +1,1 @@
-# sphincs-benchmark
+# shardus-crypto-benchmark
