@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "ryuheimat3",
   "license": "ISC",
@@ -13,6 +13,12 @@
     "json-stable-stringify": "^1.0.1",
     "shardus-sphincs": "github:ULCProject/shardus-sphincs",
     "sodium": "^2.0.3",
-    "sphincs": "^2.2.1"
+    "sphincs": "^2.2.1",
+    "ulc-crypto-utils": "github:ULCproject/ulc-crypto-utils"
+  },
+  "devDependencies": {
+    "standard": "*",
+    "mocha": "*",
+    "chai": "*"
   }
 }
