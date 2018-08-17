@@ -21,5 +21,6 @@ benchmarking different uc2-crypto-utils and sphincs.
 ## Use
 
 ```JavaScript
+npm install
 mocha
 ```
